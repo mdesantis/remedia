@@ -1,0 +1,2 @@
+module Remedia
+end
